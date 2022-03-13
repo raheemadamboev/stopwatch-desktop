@@ -3,7 +3,7 @@ Simple Stopwatch Desktop application that is written using Jetpack Compose, Kotl
 
 **Stopwatch Desktop**
 
-<img src="" />
+<img src="https://github.com/raheemadamboev/stopwatch-desktop/blob/master/banner.png" />
 
 **Tech stack:**
 
